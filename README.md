@@ -32,8 +32,6 @@ Get the latest `.apk` directly from the **[Releases Section](https://github.com/
 * **VirusTotal Scan:** [View Analysis Results](https://www.virustotal.com/gui/file/d7dea50e772e9352f262e5ab680c146a1a283bd11da66b087f5d54368f19f644)
 * **Code Audit:** Feel free to inspect the full source code in this repository.
 
-> **Disclaimer:** This is an unofficial fan-made wrapper. All game assets, logic, and intellectual property belong entirely to the original developers of [pokesurvivor.com](https://pokesurvivor.com).
-
 ---
 
 <a name="español"></a>
@@ -58,5 +56,3 @@ Obtén el archivo `.apk` más reciente desde la **[Sección de Releases](https:/
 ### 🛡️ Seguridad y Transparencia
 * **Reporte de VirusTotal:** [Ver Resultados del Análisis](https://www.virustotal.com/gui/file/d7dea50e772e9352f262e5ab680c146a1a283bd11da66b087f5d54368f19f644)
 * **Auditoría:** Puedes revisar libremente todo el código fuente en este repositorio.
-
-> **Aviso Legal:** Este es un cliente no oficial desarrollado por fans. Todos los recursos, lógica del juego y derechos pertenecen a los creadores originales de [pokesurvivor.com](https://pokesurvivor.com).
