@@ -4,7 +4,6 @@ I made this for my friends, but I want to share it so that others can play it on
 
 ![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue.style=for-for-the-badge)
 
 [English](#english) | [Español](#español)
 
