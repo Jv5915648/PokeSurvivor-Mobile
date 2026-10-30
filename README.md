@@ -20,6 +20,11 @@ An open-source Android WebView wrapper created to play [pokesurvivor.com](https:
 * **100% Safe & Transparent:** No added ads, trackers, or modified code.
 * **Open Source:** Fully verifiable source code for full community trust.
 
+### ⚡ Performance & First Launch Notes
+* **First Launch FPS:** The first time you open the game, you may experience low FPS while shaders and assets are compiling. Simply play one match (duration does not matter), close the app, and reopen it. The game will run normally afterwards!
+* **Stuttering / Lag:** Minor stuttering is an inherent issue with the original web game's performance and cannot be fixed from the app wrapper side.
+* **Recommended Setting:** Set the FPS limit to **60 FPS** using the button in the corner menu. This significantly helps reduce stuttering and improves smoothness.
+
 ### 📥 Download
 Get the latest `.apk` directly from the **[Releases Section](https://github.com/Jv5915648/PokeSurvivor-Mobile/releases/tag/2.1.1)**.
 
@@ -41,6 +46,11 @@ Un *wrapper* de código abierto creado en Android Studio para jugar a [pokesurvi
 * **Ligero y Rápido:** Desarrollado con WebView nativo en Android Studio.
 * **100% Seguro y Transparente:** Sin anuncios añadidos, sin rastreadores y sin modificaciones al juego.
 * **Código Abierto:** Todo el código fuente está disponible para inspección de la comunidad.
+
+### ⚡ Rendimiento y Primer Inicio
+* **FPS en el Primer Inicio:** La primera vez que ejecutes el juego, es posible que notes FPS bajos debido a la compilación inicial. Solo juega una partida (no importa cuánto dure), cierra la app por completo y vuelve a abrirla. ¡A partir de ahí funcionará normalmente!
+* **Tirones / Lag:** Los tirones son problemas heredados del juego web original y no es algo que se pueda solucionar desde la app.
+* **Recomendación de Ajustes:** Se recomienda limitar el juego a **60 FPS** desde el botón de la esquina. Esto ayuda bastante a reducir los tirones y suavizar el rendimiento.
 
 ### 📥 Descarga
 Obtén el archivo `.apk` más reciente desde la **[Sección de Releases](https://github.com/Jv5915648/PokeSurvivor-Mobile/releases/tag/2.1.1)**.
