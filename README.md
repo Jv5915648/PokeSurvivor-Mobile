@@ -43,7 +43,7 @@ Un *wrapper* de código abierto creado en Android Studio para jugar a [pokesurvi
 * **Código Abierto:** Todo el código fuente está disponible para inspección de la comunidad.
 
 ### 📥 Descarga
-Obtén el archivo `.apk` más reciente desde la **[Sección de Releases]([../../releases](https://github.com/Jv5915648/PokeSurvivor-Mobile/releases/tag/2.1.1))**.
+Obtén el archivo `.apk` más reciente desde la **[Sección de Releases](https://github.com/Jv5915648/PokeSurvivor-Mobile/releases/tag/2.1.1)**.
 
 ### 🛡️ Seguridad y Transparencia
 * **Reporte de VirusTotal:** [Ver Resultados del Análisis](https://www.virustotal.com/gui/file/d7dea50e772e9352f262e5ab680c146a1a283bd11da66b087f5d54368f19f644)
